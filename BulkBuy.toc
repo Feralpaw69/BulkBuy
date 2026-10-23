@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: BulkBuy
 ## Notes: Shift-click a vendor item to buy any amount, not just one stack.
-## Version: 1.0
+## Version: 1.1
 
 BulkBuy.lua

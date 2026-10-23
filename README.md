@@ -1,5 +1,7 @@
 # BulkBuy
 
+![BulkBuy in-game screenshot](images/bulkbuy-example.png)
+
 > World of Warcraft **3.3.5a (WotLK)** addon · made by **feralpaw**
 
 Shift-click a vendor item, type any amount, and BulkBuy buys it stack by stack for you – no more clicking 20 times for 400 reagents.
